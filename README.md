@@ -7,5 +7,5 @@ Sample repo for playing around in GitHub training at SIGCSE 2015
 
 ## Core Contributors
 
--@ Ash Ashokan
--@ Jordan
+- @Ash Ashokan
+- @Jordan
