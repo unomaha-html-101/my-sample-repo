@@ -1,2 +1,11 @@
 # my-sample-repo
-Sample repo for playing around in GitHub training
+
+'''
+//Example code here
+'''
+Sample repo for playing around in GitHub training at SIGCSE 2015
+
+## Core Contributors
+
+-@Ash Ashokan
+-@Jordan
